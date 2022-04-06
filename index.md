@@ -11,7 +11,7 @@
 <h2>Mohamed Guarim PLP génie mécanique et automatisme</h2>
    <a-scene embedded arjs>
       <!-- Partie consacrée au contenu : le fichier de description du marqueur -->
-  <a-marker type="pattern" url="https://raw.githubusercontent.com/guarim/rarv.github.io/main/pattern-00.patt">
+  <a-marker type="pattern" url="https://raw.githubusercontent.com/guarim/rarv.github.io/main/marker.patt">
          <!-- marker -->
 		<a-text position="-2 -2 -2.8" rotation="-90 0 0" height="2" width="2" color="blue" value="Mohamed Guarim PLP"></a-text>
 	 	<a-image position="-2 0 -2" rotation="-90 0 0" height="1" width="3" src="https://raw.githubusercontent.com/guarim/rarv.github.io/main/logo-ravoux.png"></a-image>
